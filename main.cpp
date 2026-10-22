@@ -19,7 +19,7 @@ int main () {
     cin>>b;
 
     int gcf = findGCF(a, b);
-    cout<<"The greatest common factor is "<<gcf<<endl;
+    cout<<"The greatest common factor of "<<a<<" and "<<b<<" is "<<gcf<<endl;
 
     return 0;
 }
